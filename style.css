@@ -1,0 +1,16 @@
+.jumbotron {
+  text-align: center;
+  font-size: 3em;
+  background-color: blue;
+  color: white;
+}
+
+form {
+  padding: 20px;
+  font-weight: bold;
+}
+
+.panel-heading {
+  font-weight: bold;
+  background-color: blue;
+}
